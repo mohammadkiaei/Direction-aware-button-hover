@@ -7,4 +7,4 @@ btn.addEventListener("mousemove", (e) => {
     e.target.style.setProperty("--y", `${ypos}px`);
 });
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
